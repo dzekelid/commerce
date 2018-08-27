@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1243-finxe
 x-kinRank: "9"
 x-alexaRank: "3791619"
 tags: Commerce
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/commerce/master/_listings/finxera/apis.md
 specificationVersion: "0.14"
 apis: []

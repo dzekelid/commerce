@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28287-doc-
 x-kinRank: "7"
 x-alexaRank: "7057"
 tags: Commerce
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/commerce/master/_listings/prestashop/apis.md
 specificationVersion: "0.14"
 apis: []
